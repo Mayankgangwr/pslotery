@@ -2,3 +2,21 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.header-shadow{
+    background-color: #fff;
+    box-shadow: 1px 2px 44px #d1c5c5;
+    margin: 6px 0px;
+    padding: 10px;
+    border-radius: 16px;
+}
+.header-shadow1{
+  background-color: #fff;
+    box-shadow: 1px 2px 44px #d1c5c5;
+    padding: 7px 7px !important;
+    border-radius: 16px;
+}
+
+.w-95{
+  width: 95% !important;
+}
